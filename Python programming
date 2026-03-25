@@ -1,0 +1,6 @@
+a=“silent”
+b=“listen”
+if sorten(a)==sorted(b)
+  print(”Anagram”)
+else
+  print("Not a Anagram")
